@@ -61,9 +61,14 @@ window.console.log("My Riviera is" + ageCar + "years old.");
 */
 
 // STEP 7
+/*
+var x = true + "Hello World!";
+window.console.log(x);
 
-var x = Boolean("A");
-var y = 5 + Boolean();
+var y = 5 + true;
+window.console.log(y);
+*/
+
 // STEP 8
 /*
 var someString = 'Who once said, "Only two things are infinite, the universe and human stupidity, and I'm not sure about the former."';
